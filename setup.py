@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name='PyAviationWeather',
-    version='0.0.0',
+    version='0.0.1',
     author='William Ng',
     author_email='Williamntw.Website@gmail.com',
     description='An aviation weather information python package',
